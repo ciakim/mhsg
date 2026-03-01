@@ -26,7 +26,7 @@ https://www.kookapp.cn/app/channels/6411635328408702/4815639785993776
 【公益三国】
 QQ群：647625252
 QQ群：1078927255
-服务器：54.251.13.54
+服务器：54.251.13.54   3.0.40.70    18.136.200.92
 服务端口：8083 8084 8085
 游戏下载：https://gysg.net  https://yuanmengsg.com  https://sgpre.com
 游戏接口：https://api.gysg.net/userServer     https://api.sgpre.com/userServer
