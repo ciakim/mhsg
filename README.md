@@ -13,7 +13,6 @@ The source information is collected from the internet;
 服务器IP：52.74.195.189 、后端54.251.207.47
 kook宣传群
 https://www.kookapp.cn/app/channels/6411635328408702/4815639785993776
-游戏管理后台：https://menghuanagent.net
 作者邮箱：guojisanguo@gmail.com、oksgmsg@gmail.com
 官网下载链接：https://menghuansg.com、back.dreamsg.net、menghuanagent.net
 客服充值入口：https://chat.menghuansg.com
@@ -29,8 +28,7 @@ QQ群：1078927255
 服务器：54.251.13.54   3.0.40.70    18.136.200.92
 服务端口：8083 8084 8085
 游戏下载：https://gysg.net  https://yuanmengsg.com  https://sgpre.com
-游戏接口：https://api.gysg.net/userServer     https://api.sgpre.com/userServer
-管理后台：https://agentgy.net
+
 推广账户：
 https://space.bilibili.com/3690994469964767
 https://space.bilibili.com/3690993998105232
