@@ -5,38 +5,6 @@
 The source information is collected from the internet;
 
 
-【梦幻三国】
-私服主人抖音号：C792534  
-私服主人QQ：3837782041
-私服QQ群：364739071、1029231172   
-私服服务端团队QQ：421011715、646716927、525115767、1062146607、740260026、3965570698、3897604833
-服务器IP：52.74.195.189 、后端54.251.207.47
-kook宣传群
-https://www.kookapp.cn/app/channels/6411635328408702/4815639785993776
-作者邮箱：guojisanguo@gmail.com、oksgmsg@gmail.com
-官网下载链接：https://menghuansg.com、back.dreamsg.net、menghuanagent.net
-客服充值入口：https://chat.menghuansg.com
-支付：https://yzf.52yfgame.com
-客服系统：https://www.fishmn.top/c/233
-游戏前端负载均衡：i0.hdslb.com
-后端服务器54.251.207.47   服务端口：14504、14804、15006、15008
-
-2026-01-03
-【公益三国】
-QQ群：647625252
-QQ群：1078927255
-服务器：54.251.13.54   3.0.40.70    18.136.200.92
-服务端口：8083 8084 8085
-游戏下载：https://gysg.net  https://yuanmengsg.com  https://sgpre.com
-
-推广账户：
-https://space.bilibili.com/3690994469964767
-https://space.bilibili.com/3690993998105232
-
-
-
-43.156.88.56
-
 【吉他QQ三国单机版】
 作者：抱着吉他撸代码
 作者QQ：326469331、
