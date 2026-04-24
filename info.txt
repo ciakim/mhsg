@@ -5,8 +5,6 @@ The source information is collected from the internet;
 
 【梦幻三国/QQ三国手游】
 https://sns.funduction.com
-https://sns.funduction.com
-https://sns.funduction.com
 QQ三国手游私服Unity客户端工程+ C#服务端工程完整源码
 
 首款经典萌系横版卷轴即时战斗2D MMORPG手游，精美细腻的游戏场景，清新悠扬的古典背景音乐，可爱搞笑的骁勇悍将，唯美绚丽的动作特效，还原经典的三国战役，将带您体验无与伦比的战斗乐趣，为您重塑忍俊不禁的奇幻三国。
