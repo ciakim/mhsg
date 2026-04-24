@@ -3,6 +3,8 @@
 ```Dreamland Sanguo/QQ Sanguo Private Server Mobile Game```
 The source information is collected from the internet;
 
+【梦幻三国/QQ三国手游】
+https://sns.funduction.com
 
 【吉他QQ三国单机版】
 作者：抱着吉他撸代码
